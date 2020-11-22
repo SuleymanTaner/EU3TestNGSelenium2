@@ -1,0 +1,3 @@
+some text here
+/Users/staner/IdeaProjects/EU3TestNGSelenium2/src/test/resources/textfile.txt
+
